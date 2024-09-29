@@ -32,11 +32,11 @@
 
 
 
-**Sunset Drawn in Code: SVG**
+<!--**Sunset Drawn in Code: SVG**
 <p align="center">
   
   <img src="https://raw.githubusercontent.com/IcYy17/IcYy17/main/landscape.svg" alt="Beautiful Sunset SVG" width = "100%" />
 </p>
-
+-->
 
 
