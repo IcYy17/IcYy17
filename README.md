@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icyy17&label=Profile%20views&color=0e75b6&style=flat" alt="icyy17" /> </p>
 
-- 🔭 I’m currently working on **InvernoSocial.com**
+- 🔭 I’m currently working on <a href= "https://invernosocial.com"> **InvernoSocial.com**</a>
 
 - 🌱 I’m currently learning **React**
 
