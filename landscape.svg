@@ -1,0 +1,7 @@
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="skyblue" />
+  <circle cx="80" cy="80" r="40" fill="yellow" />
+  <rect x="0" y="150" width="100%" height="50" fill="green" />
+  <polygon points="60,150 80,100 100,150" fill="darkgreen" />
+  <polygon points="130,150 150,120 170,150" fill="darkgreen" />
+</svg>
