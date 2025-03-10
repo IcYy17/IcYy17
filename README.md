@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">A passionate CS student at BYU</h3>
+<h3 align="center">CS student at BYU</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icyy17&label=Profile%20views&color=0e75b6&style=flat" alt="icyy17" /> </p>
