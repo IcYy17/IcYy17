@@ -4,17 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icyy17&label=Profile%20views&color=0e75b6&style=flat" alt="icyy17" /> </p>
 
-- 🔭 I’m currently working on <a href= "https://invernosocial.com"> **InvernoSocial.com**</a>
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **A new internship!**
-
-- 💬 Ask me about **Web Developement**
-
-- 📫 How to reach me **littlenash171@gmail.com**
-
-- ⚡ Fun fact **I love to make YouTube videos!**
+- life's too short, git push --force
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
